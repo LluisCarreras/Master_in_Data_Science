@@ -1,22 +1,17 @@
-Pràctica 1: Web scraping
-Descripció:
-Aquesta pràctica s'ha desenvolupat com a part de l'assignatura Tipologia i cicle de vida de les dades, que forma part del Màster en Ciència de Dades de la Universitat Oberta de Catalunya.
+# Pràctica 2: Neteja i validació de les dades
 
-Membres de l'equip:
-Aquesta pràctica l'ha realitzat de manera individual l'alumne Josep Lluís Carreras González.
+## Descripció:
+Aquesta pràctica s'ha desenvolupat com a part de l'assignatura _Tipologia i cicle de vida de les dades_, que forma part del Màster en Ciència de Dades de la Universitat Oberta de Catalunya. 
 
-Fitxers:
-BCN_nomenclator.py: Fitxer Python que conté tot el codi que es fa servir per fer el scraping i el tractament de les dades.
-BCN_nomenclator.csv: Fitxer CSV en el que s'emmgatatzemen les dades del dataset.
-CARRERER.csv: Fitxer CSV auxiliar que es crea durant el desenvolupament del dataset.
-Odonímia de la Ciutat de Barcelona.docx: Fitxer DOCX en el que es descriu el dataset.
-Recursos:
-Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd.
+## Membres de l'equip:
+Aquesta pràctica l'ha realitzat de manera individual l'alumne **Josep Lluís Carreras González**.
 
-Mitchel, R. (2015). Web Scraping with Python: Collecting Data from the Modern Web. O'Reilly Media, Inc.
+## Fitxers:
+* **practica_2_tipologia_de_dades.ipynb**: Fitxer Jupyter en Python que conté tot el codi que es fa servir en el desenvolupament de la pràctica 2 i les respostes a les preguntes.
+* **dones_carrers_BCN.csv**: Fitxer CSV en el que s'emmgatatzemen les dades finals obtingudes a la pràctica 2.
+* **BCN_nomenclator.csv**: Fitxer CSV que es va crear durant el desenvolupament de la pràctica 1.
+* **s0a0rani1y2016lca.csv**: Fitxer CSV descarregat del web de l'Institut d'Estadística de Catalunya (https://www.idescat.cat/nadons/).
+* **nam_dict.txt**: Fitxer TXT descarregat del web https://github.com/ferhatelmas/sexmachine.
 
-Odonimia de Barcelona - https://es.wikipedia.org/wiki/Odonimia_de_Barcelona
-
-B Nomenclator - http://www.bcn.cat/nomenclator/
-
-Conjuntos de datos - Open Data Barcelona - http://opendata-ajuntament.barcelona.cat/data/es/dataset?q=carrerer&sort=fecha_publicacion+desc
+## Recursos:
+* Wes McKinney (2012). Python for Data Analysis. O’Reilley Media, Inc.
